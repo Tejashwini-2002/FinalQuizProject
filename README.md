@@ -1,2 +1,2 @@
 # FinalQuizProject
-Quiz Project which calculate total number od correct ans
+Quiz Project which calculate total number of correct ans
